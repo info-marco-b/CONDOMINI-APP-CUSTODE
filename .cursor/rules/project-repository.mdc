@@ -1,0 +1,14 @@
+---
+description: Repository di default del progetto
+alwaysApply: true
+---
+
+# Repository di default
+
+Questo progetto è **CONDOMINI-APP-CUSTODE**.
+
+- **Nome repository:** CONDOMINI-APP-CUSTODE
+- **Repository di default:** questo è l'unico repository del workspace; tutti i riferimenti a "il progetto", "il repo", "il repository" si intendono per CONDOMINI-APP-CUSTODE.
+- **Remote Git:** `origin` punta al repository GitHub del progetto (APP-CUSTODE / CONDOMINI-APP-CUSTODE).
+
+Quando si parla di push, pull, branch, issue o contesto repository, si intende sempre CONDOMINI-APP-CUSTODE.
